@@ -1,8 +1,8 @@
 <h1>DronyDeliv</h1>
 
-Final project of Programação I at Faculdade de Ciências da Universidade de Lisboa (FCUL), taught by Professor António Branco, in 2019/20. 
+Final project in Python 3 of Programação I at Faculdade de Ciências da Universidade de Lisboa (FCUL), taught by Professor António Branco, in 2019/20. 
 
-Projeto final da disciplina de Programação I da Faculdade de Ciências da Universidade de Lisboa (FCUL), ministrado pelo professor António Branco, em 2019/20.
+Projeto final em Python 3 da disciplina de Programação I da Faculdade de Ciências da Universidade de Lisboa (FCUL), ministrado pelo professor António Branco, em 2019/20.
 
 <h2>Objetivo</h2>
 
@@ -16,3 +16,8 @@ Develop software for a company that uses drones for home parcel delivery.
   <li>Julliana Sousa</li>
   <li>Tomás Neves</li>
   <li>António Branco</li>
+</ul>
+
+<h2>Terminal</h2>
+
+python dronyD.py inputFile1 inputFile2
